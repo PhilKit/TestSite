@@ -34,6 +34,7 @@ github_username:  jekyll
 remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
+  - jekyll-coffeescript
 color_scheme: dark
 $link-color: $blue-000;
 # Set a path/url to a logo that will be displayed instead of the title
