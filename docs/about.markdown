@@ -17,3 +17,5 @@ You can find the source code for Jekyll at GitHub:
 
 ![Pic1]({{ "/assets/images/Opteranlogo.png" | absolute_url }})
 [jekyll-organization]: https://github.com/jekyll
+
+![Screenshot](https://raw.github.com/PhilKit/TestSite/blob/master/assets/images/Opteranlogo.png)
