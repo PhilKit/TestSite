@@ -38,7 +38,7 @@ plugins:
 color_scheme: dark
 $link-color: $blue-000;
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/Opteranlogo.png"
+logo: "/assets/images/just-the-docs.png"
 
 
 
