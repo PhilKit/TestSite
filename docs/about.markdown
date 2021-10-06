@@ -10,7 +10,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 new image
 ![My helpful screenshot](/assets/images/just-the-docs.png)
 
-![My helpful screenshot](/TestSite/assets/images/Opteranlogo.png)
+![My helpful screenshor](/TestSite/assets/images/Opteranlogo.png)
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
